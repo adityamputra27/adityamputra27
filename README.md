@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋 , I'm Aditya Muhamad Putra!
+
+Web Developer, React Native Developer (Coming Soon)
 
 <!--
 **adityamputra27/adityamputra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-![github stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
