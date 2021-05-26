@@ -5,15 +5,15 @@ Web Developer, Baso, Gorengan, Mie Ayam Enthusiast , React Native Developer (Com
 <!--
 **adityamputra27/adityamputra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
 ## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true)
 ## Introduction
 
 - 🔭 I’m currently working on Madtive Studio as Junior Web Developer
 - 🌱 I’m currently learning Docker, Lumen, Typescript, React and TailwindCSS
-- 👯 I'm currently to collaborate on <a href="https://asika.id"></a> & <a href="https://sdmtaniaperfume.co.id">SDM Tania Perfume Project!</a>
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- 👯 I'm currently to collaborate on <a href="https://asika.id">Asika (Asisten Individu Karyawan)</a> & <a href="https://sdmtaniaperfume.co.id">SDM Tania Perfume Project!</a>
 - 📫 How to reach me: You can contact me on, 081222534937 (Whatsapp), Aditya Putra (Facebook)
 - 😄 Pronouns: You can call me Adit :)
 <!-- - ⚡ Fun fact: ... -->
