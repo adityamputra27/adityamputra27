@@ -5,6 +5,7 @@ Web Developer, Baso, Gorengan, Mie Ayam Enthusiast , React Native Developer (Com
 <!--
 **adityamputra27/adityamputra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true)
 ## Introduction
 
@@ -18,6 +19,7 @@ Web Developer, Baso, Gorengan, Mie Ayam Enthusiast , React Native Developer (Com
 - ⚡ Fun fact: ...
 💕 Love Laravel & Vue JS so much.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27)](https://github.com/adityamputra27/github-readme-stats) -->
+## My Github Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&langs_count=8)](https://github.com/adityamputra27/github-readme-stats)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityamputra27)](https://github.com/anuraghazra/github-readme-stats) -->
 
