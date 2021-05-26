@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27)](https://github.com/adityamputra27/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27)](https://github.com/adityamputra27/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&langs_count=8)](https://github.com/adityamputra27/github-readme-stats)
+
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&theme=vue"> -->
