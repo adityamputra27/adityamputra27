@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 💕 Love Laravel & Vue JS so much.
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true)
-<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27)](https://github.com/adityamputra27/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&langs_count=8)](https://github.com/adityamputra27/github-readme-stats)
-<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityamputra27)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityamputra27)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&theme=vue"> -->
