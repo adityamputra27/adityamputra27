@@ -7,6 +7,7 @@ Web Developer, Baso, Gorengan, Mie Ayam Enthusiast , React Native Developer (Com
 -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
+<!-- - ⚡ Fun fact: ... -->
 ## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true)
 ## Introduction
@@ -16,8 +17,7 @@ Web Developer, Baso, Gorengan, Mie Ayam Enthusiast , React Native Developer (Com
 - 👯 I'm currently to collaborate on <a href="https://asika.id">Asika (Asisten Individu Karyawan)</a> & <a href="https://sdmtaniaperfume.co.id">SDM Tania Perfume Project!</a>
 - 📫 How to reach me: You can contact me on, 081222534937 (Whatsapp), Aditya Putra (Facebook)
 - 😄 Pronouns: You can call me Adit :)
-<!-- - ⚡ Fun fact: ... -->
-💕 Love Laravel & Vue JS so much.
+- 💕 Love Laravel & Vue JS so much.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27)](https://github.com/adityamputra27/github-readme-stats) -->
 ## My Github Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&langs_count=8)](https://github.com/adityamputra27/github-readme-stats)
