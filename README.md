@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Aditya Muhamad Putra!
 
-Web Developer, Baso, Gorengan, Mie Ayam Enthusiast , React Native Developer (Coming Soon)
+Enthusiastic Web Developer, Mobile Developer (Cooming Soon) & UI Designer
 
 <!--
 **adityamputra27/adityamputra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
