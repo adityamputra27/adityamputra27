@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Aditya Muhamad Putra!
 
-Enthusiastic Web Developer, Mobile Developer (Cooming Soon) & UI Designer
+Enthusiastic Web Developer & UI Apps Designer
 
 <!--
 **adityamputra27/adityamputra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
