@@ -2,6 +2,8 @@
 
 Software Engineer - Web Developer - UI Designer
 
+![My card name](https://cardivo.vercel.app/api?name=Aditya%20Muhamad%20Putra%20P&description=Web%20Design%20&%20Developer&image=https://avatars.githubusercontent.com/u/68887223?v=4&backgroundColor=%23293B5F&instagram=_adityamputra27&linkedin=Aditya%20Muhamad%20Putra%20P&github=adityamputra27&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+
 <!--
 **adityamputra27/adityamputra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
