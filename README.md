@@ -12,8 +12,8 @@ Software Engineer - Web Developer - UI Designer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true)
 ## Introduction
 
-- 🔭 I’m currently working on Madtive Studio as Junior Web Developer
-- 🌱 I’m currently learning Docker, Lumen, Typescript, React and TailwindCSS
+- 🔭 I’m currently working on Madtive Studio as Fullstack Developer
+- 🌱 I’m still learning about UI / UX Designer
 - 👯 I'm currently to collaborate on <a href="https://asika.id">Asika (Asisten Individu Karyawan)</a> & <a href="https://sdmtaniaperfume.co.id">SDM Tania Perfume Project!</a>
 - 📫 How to reach me: You can contact me on, 081222534937 (Whatsapp), Aditya Putra (Facebook)
 - 😄 Pronouns: You can call me Adit :)
