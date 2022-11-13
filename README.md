@@ -16,9 +16,9 @@ Software Engineer & Frontend Developer
 
 - 🔭 I’m currently working on Madtive Studio as Fullstack Developer
 - 🌱 I’m still learning about UI / UX Designer
-- 👯 I'm currently to collaborate on <a href="https://medisy.id">Medisy</a> & <a href="https://sdmtaniaperfume.co.id">SDM Tania Perfume Project!</a>
-- 📫 How to reach me: You can contact me on, 081222534937 (Whatsapp), Aditya Putra (Facebook)
-- 😄 Pronouns: You can call me Adit :)
+- 👯 I'm currently to collaborate on Medisy and Tania Perfume project!
+- 📫 How to reach me: You can contact me on, 081222534937 (Whatsapp), Aditya Putra (Facebook), @dittmptrr27 (Instagram)
+- 😄 Pronouns: Whatever you want :)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27)](https://github.com/adityamputra27/github-readme-stats) -->
 ## My Github Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&langs_count=8)](https://github.com/adityamputra27/github-readme-stats)
