@@ -15,7 +15,6 @@ Software Engineer & Frontend Developer
 ## Introduction
 
 - 🔭 I’m currently working on Madtive Studio as Fullstack Developer
-- 🌱 I’m still learning about UI / UX Designer
 - 👯 I'm currently to collaborate on Medisy and Tania Perfume project!
 - 📫 How to reach me: You can contact me on, 081222534937 (Whatsapp), Aditya Putra (Facebook), @dittmptrr27 (Instagram)
 - 😄 Pronouns: Whatever you want :)
