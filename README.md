@@ -1,4 +1,4 @@
-[![MasterHead](https://dittmptrr27.com/banner.png)](https://dittmptrr27.com)
+<!-- [![MasterHead](https://dittmptrr27.com/banner.png)](https://dittmptrr27.com) -->
 
 <h1 align="center" style="padding-top: 10em;">Hi 👋, I'm Aditya Muhamad Putra P.</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
