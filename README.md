@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **adityamuhamadputra@gmail.com**
 
-- 📄 Know about my experiences [http://dittmptrr27.com/](http://dittmptrr27.com/)
+- 📄 Know about my experiences [http://dittmptrr27.com/](dittmptrr27.com/)
 
 - ⚡ Fun fact **Lifetime learner**
 
