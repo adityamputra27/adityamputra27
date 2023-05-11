@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [http://dittmptrr27.com/](http://dittmptrr27.com/)
 
-- 📝 I regularly write articles on [http://dittmptrr27.com/](http://dittmptrr27.com/)
+<!-- - 📝 I regularly write articles on [http://dittmptrr27.com/](http://dittmptrr27.com/) -->
 
 - 📫 How to reach me **adityamuhamadputra@gmail.com**
 
