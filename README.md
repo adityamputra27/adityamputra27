@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Madtive Studio**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **React JS & Flutter**
 
 - 👨‍💻 All of my projects are available at [http://dittmptrr27.com/](http://dittmptrr27.com/)
 
