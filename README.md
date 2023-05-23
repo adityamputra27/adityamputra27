@@ -12,11 +12,8 @@
 - 🌱 I’m currently learning **React JS & Flutter**
 - 👨‍💻 All of my projects are available at [http://dittmptrr27.com/](http://dittmptrr27.com/)
 <!-- - 📝 I regularly write articles on [http://dittmptrr27.com/](http://dittmptrr27.com/) -->
-
 - 📫 How to reach me **adityamuhamadputra@gmail.com**
-
 - 📄 Know about my experiences [http://dittmptrr27.com/](dittmptrr27.com/)
-
 - ⚡ Fun fact **Lifetime learner**
 
 <h3 align="left">Connect with me:</h3>
