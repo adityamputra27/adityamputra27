@@ -9,7 +9,7 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
 ### 🧰 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Skills">
-  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skills">
+  <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skills">
