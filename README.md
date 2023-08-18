@@ -39,4 +39,5 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
 </p>
 
 ### My Github Stats
-!(https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&layout=pie)]
