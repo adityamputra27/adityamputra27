@@ -14,7 +14,7 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
 
 <p align="left">
   <a href="https://linkedin.com/in/aditya-muhamad-putra-p" rel="nofollow">
-    <img align="center" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="aditya-muhamad-putra-p" width="40"></a>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="aditya-muhamad-putra-p" width="40"></a>
   <a href="https://instagram.com/dittmptrr27" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="dittmptrr27" width="40" style="max-width: 100%;">
   </a>
