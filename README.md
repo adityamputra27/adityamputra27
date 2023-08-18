@@ -2,7 +2,8 @@
 
 **`Frontend Web Developer/Backend Web Developer/Flutter Developer`**
 
-Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years old. I have experienced with Laravel, Codeigniter, Vue, React, and Flutter, and I also have good time management, I'm currently learning Dart and Next JS, and now I'm working as a Frontend Web Developer at PT Madtive Studio Indonesia
+Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years old. Now I am 21 years old and a 5th semester student at Putra Indonesia University. 
+ I have experienced with Laravel, Codeigniter, Vue, React, and Flutter, and I also have good time management, I'm currently learning Dart and Next JS, and now I'm working as a Frontend Web Developer at PT Madtive Studio Indonesia
 
 ---
 
