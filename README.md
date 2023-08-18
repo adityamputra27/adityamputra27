@@ -31,7 +31,7 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
 
 <p align="left">
   <a href="https://linkedin.com/in/aditya-muhamad-putra-p" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://instagram.com/dittmptrr27" rel="nofollow">
     
