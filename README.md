@@ -9,7 +9,7 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
 ### 🧰 Languages and Tools
 <br />
 <br />
-<img src="https://custom-icon-badges.demolab.com/badge/REACT?logo=react" alt="Skills">
+<img src="https://custom-icon-badges.demolab.com/badge/react.svg?logo=react" alt="Skills">
 
 ### 👋 Let's Connect with Me!
 
