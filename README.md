@@ -39,7 +39,7 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
 </p>
 
 ### 👨🏻‍💻 My Github Stats
-![Aditya Muhamad Putra P's Github Stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true&theme=gruvbox)
+![Aditya Muhamad Putra P's Github Stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true&theme=transparent)
 &nbsp;
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&layout=compact&theme=gruvbox&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&layout=compact&theme=transparent&langs_count=10)
