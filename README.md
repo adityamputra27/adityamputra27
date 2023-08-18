@@ -16,11 +16,11 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skills">
-  <img src="https://img.shields.io/badge/next-000000.svg?style=for-the-badge&logo=next&logoColor=white" alt="Skills">
+  <img src="https://img.shields.io/badge/next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Skills">
-  <img src="https://img.shields.io/badge/redist-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Skills">
+  <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/codeigniter-EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Skills">
