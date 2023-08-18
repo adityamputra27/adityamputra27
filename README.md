@@ -34,6 +34,6 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://instagram.com/dittmptrr27" rel="nofollow">
-    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" width="40"/>
   </a>
 </p>
