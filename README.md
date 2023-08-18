@@ -24,20 +24,22 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
   <img src="https://img.shields.io/badge/codeigniter-EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Skills">
-  <img src="https://img.shields.io/badge/figma-F24E1EB.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Skills">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Skills">
 </p>
 
 ### 👋 Let's Connect with Me!
 
 <p align="left">
-  <a href="https://linkedin.com/in/aditya-muhamad-putra-p" rel="nofollow" target="_blank">
+  <a href="https://linkedin.com/in/aditya-muhamad-putra-p" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="https://instagram.com/dittmptrr27" rel="nofollow" target="_blank">
+  <a href="https://instagram.com/dittmptrr27" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" width="40"/>
   </a>
 </p>
 
-### My Github Stats
+### 👨🏻‍💻 My Github Stats
 ![Aditya Muhamad Putra P's Github Stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true&theme=gruvbox)
+&nbsp;
+&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&layout=compact&theme=gruvbox&langs_count=10)
