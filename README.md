@@ -37,3 +37,6 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 18 years o
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" width="40"/>
   </a>
 </p>
+
+### My Github Stats
+![Aditya Muhamad Putra P's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamputra27&show_icons=true&theme=gruvbox)
