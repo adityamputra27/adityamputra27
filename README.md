@@ -1,6 +1,6 @@
 <h1 style="color: black; text-underline: none;">🐈 Aditya Muhamad Putra P.</h1>
  
-**`Frontend Engineer & Flutter Developer`**   
+**`Frontend Engineer & Flutter Developer`**
 
 Hello! my name is Aditya Muhamad Putra P. I started programming since 17 years old. Now I am 21 years old and a 6th semester student at Putra Indonesia University. 
  I have experienced with Laravel, Codeigniter, Vue, React, and Flutter, and I also have good time management, I'm currently learning Dart and Next JS, and now I'm working as a Frontend Web Developer at PT Madtive Studio Indonesia and Freelancer at Aliendroid
