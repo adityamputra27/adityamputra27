@@ -16,6 +16,7 @@ Hello! my name is Aditya Muhamad Putra P. I started programming since 17 years o
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Skills">
+  <img src="https://img.shields.io/badge/nuxt-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Skills">
   <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Skills">
