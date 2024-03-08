@@ -1,6 +1,6 @@
 <h1 style="color: black; text-underline: none;">🐈 Aditya Muhamad Putra P.</h1>
  
-**`Frontend Engineer & Flutter Developer`**  
+**`Frontend Engineer & Flutter Developer`**   
 
 Bio not yet:v
   
