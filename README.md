@@ -30,5 +30,3 @@ Bio not yet:v
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Skills">
 </p>
 
-### 🏆 Github Thropies
-[![](https://github-profile-trophy.vercel.app/?username=adityamputra27&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=adityamputra27)
